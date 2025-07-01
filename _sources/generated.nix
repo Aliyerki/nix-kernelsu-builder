@@ -141,17 +141,17 @@
   };
   susfs-android13-5_15 = {
     pname = "susfs-android13-5_15";
-    version = "94139dd3bbe07ee8fb92ae2787be86ccfcde0c16";
+    version = "1faf0007f2eb3e14116a71d4d4123255bfe94ff1";
     src = fetchgit {
       url = "https://gitlab.com/simonpunk/susfs4ksu.git";
-      rev = "94139dd3bbe07ee8fb92ae2787be86ccfcde0c16";
+      rev = "1faf0007f2eb3e14116a71d4d4123255bfe94ff1";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-dikNQ1WZqK5/Yd5uwmSkJtUzE7Vg4iuX6CinmzJr6HI=";
+      sha256 = "sha256-uEkaaR8B9ILo9S2+7xgUgR6QnrWxDIxcXJP5Y5EH6Lc=";
     };
-    date = "2025-06-27";
+    date = "2025-06-30";
   };
   wildplus-kernel-patches = {
     pname = "wildplus-kernel-patches";
