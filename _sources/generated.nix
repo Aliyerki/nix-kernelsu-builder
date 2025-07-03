@@ -141,15 +141,15 @@
   };
   susfs-android13-5_15 = {
     pname = "susfs-android13-5_15";
-    version = "f7a8e3503d1d3bb731c220500e89234b69e819f4";
+    version = "3a666db9ab3977f426517367e8e6a51486661359";
     src = fetchgit {
       url = "https://gitlab.com/simonpunk/susfs4ksu.git";
-      rev = "f7a8e3503d1d3bb731c220500e89234b69e819f4";
+      rev = "3a666db9ab3977f426517367e8e6a51486661359";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-8E1HyBaa3EZiQ2KZDK9seMFAnUNG3Lzz5zYLWg4e6/0=";
+      sha256 = "sha256-/5BBWHA/cYHcpL+f8dB9la7u0qDHy8EphSj7SjHNz/M=";
     };
     date = "2025-07-02";
   };
