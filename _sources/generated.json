@@ -95,13 +95,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "v1.1.0",
-            "sha256": "sha256-H0BCuqMJHqiFtK/JZD77z/dkpc8pk1yMIxdZsV0qZY8=",
+            "rev": "v1.1.1",
+            "sha256": "sha256-h99YriWugjS4AuAJzMFm2AN+1Dt1BigooKUYMzVCXL4=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/rifsxd/KernelSU-Next.git"
         },
-        "version": "v1.1.0"
+        "version": "v1.1.1"
     },
     "kernelsu-next-revision-code": {
         "cargoLock": null,
@@ -116,7 +116,7 @@
             "type": "url",
             "url": "https://example.com"
         },
-        "version": "12862"
+        "version": "12851"
     },
     "kernelsu-stable": {
         "cargoLock": null,
