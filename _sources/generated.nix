@@ -8,15 +8,15 @@
 {
   anykernel-kernelsu = {
     pname = "anykernel-kernelsu";
-    version = "ac6360f6fc1895cbd218246f12a771f63d0e5e4f";
+    version = "80e0cc9e736572ad16c7dc539ba9b6e40749f8e7";
     src = fetchFromGitHub {
       owner = "Kernel-SU";
       repo = "AnyKernel3";
-      rev = "ac6360f6fc1895cbd218246f12a771f63d0e5e4f";
+      rev = "80e0cc9e736572ad16c7dc539ba9b6e40749f8e7";
       fetchSubmodules = false;
-      sha256 = "sha256-lWqFsucmu6tyLJd4JbNxbBPDRcArQ2KaSUeaqFH73cA=";
+      sha256 = "sha256-8zVOkoMXkKQ+SCBg7jYn2H+RP7bb9x8MAOy/8d/P6Cc=";
     };
-    date = "2025-05-17";
+    date = "2025-11-07";
   };
   anykernel-osm0sis = {
     pname = "anykernel-osm0sis";
@@ -160,14 +160,14 @@
   };
   wildplus-kernel-patches = {
     pname = "wildplus-kernel-patches";
-    version = "9043e8349cacb0aff6cc69a9a15e8abb3e999717";
+    version = "60cb2f8f1eb6f84074b47c142594066b2d0b418c";
     src = fetchFromGitHub {
       owner = "WildPlusKernel";
       repo = "kernel_patches";
-      rev = "9043e8349cacb0aff6cc69a9a15e8abb3e999717";
+      rev = "60cb2f8f1eb6f84074b47c142594066b2d0b418c";
       fetchSubmodules = false;
-      sha256 = "sha256-rA/2cHhCIvzQSXNdUsRpKiwozTJMevlqXWD9pwjZiHk=";
+      sha256 = "sha256-13JmWeg+oADnSzdGMK3tgvnCV10NH+aNVMLgxatEhHY=";
     };
-    date = "2025-10-28";
+    date = "2025-11-07";
   };
 }
